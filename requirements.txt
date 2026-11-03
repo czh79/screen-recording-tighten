@@ -1,0 +1,4 @@
+# 录屏智能去停顿
+faster-whisper>=1.0.0
+
+# 系统依赖：FFmpeg / ffprobe 需单独安装并加入 PATH
